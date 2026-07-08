@@ -28,9 +28,13 @@ and is cart abandonment recoverable?
 - High-volume brands underperform on conversion:  not supported either
 
 ## So what?
-This isn't really a funnel problem, it's a **return-window problem**. 
-Items sit in cart for 8.2 days on average before removal, but cross-session recovery dies after about a week.
-That means the intervention window is narrower than the sit-time suggests: a cart-abandonment email fired 48–72 hours in and not at day 8, is the only version of this campaign that lands before the customer has mentally closed the loop. Waiting for the "natural" 8 day removal point to trigger a visit is already too late for most of that ~1.44% who'd ever return anyway, the recommendation isn't "add a reminder email," it's "fix the timing of the one you probably already have."
+This isn't a funnel problem, it's a return-window problem. 
+Customers aren't rejecting the product, only 15.36% of cart-adds convert in the same session, and the ones who do come back mostly buy something else (1.44% return for the exact item, ~30% buy anything within ~11 days). The cart itself becomes irrelevant faster than the customer does.
+
+Two changes follow directly from this:
+
+- Re-engagement should target the return, not the SKU. Broad "welcome back" triggers, category recs, generic incentives, timed inside the ~8-day cart-sit window will reach the 30% who are actually convertible. Product-specific reminders are optimizing for a population that's already down to 1.44%.
+- Cart persistence is a technical lever, not just a marketing one. With cross-session purchase as the dominant path, any friction that breaks cart continuity across devices or sessions (no persistence, no account-linking prompt at add-to-cart) is quietly discarding demand the data shows is still there roughly a week later.
 
 ## Files
 - `/sql/funnel_analysis.sql` — full query set, ordered narratively 
