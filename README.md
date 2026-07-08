@@ -13,7 +13,7 @@ and is cart abandonment recoverable?
 
 ## Key findings
 - **6.92%** overall user-level funnel conversion
-- Session-level cart→purchase conversion is only **15.36%** — most 
+- Session-level cart→purchase conversion is only **15.36%**, most 
   purchases happen in a *later* session, not the one where the item 
   was added to cart
 - Average full purchase journey: **~11 days**
