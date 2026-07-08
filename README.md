@@ -29,11 +29,8 @@ and is cart abandonment recoverable?
 
 ## So what?
 This isn't really a funnel problem, it's a **return-window problem**. 
-Cross-session abandonment is mostly permanent, but there's roughly a 
-one-week window where recovery is still realistic. That reframes the 
-business question from "fix the funnel" to "shrink the time before the 
-customer is gone for good".
-Do: targeted reminders within that window rather than generic retargeting indefinitely.
+Items sit in cart for 8.2 days on average before removal, but cross-session recovery dies after about a week.
+That means the intervention window is narrower than the sit-time suggests: a cart-abandonment email fired 48–72 hours in and not at day 8, is the only version of this campaign that lands before the customer has mentally closed the loop. Waiting for the "natural" 8 day removal point to trigger a visit is already too late for most of that ~1.44% who'd ever return anyway, the recommendation isn't "add a reminder email," it's "fix the timing of the one you probably already have."
 
 ## Files
 - `/sql/funnel_analysis.sql` — full query set, ordered narratively 
