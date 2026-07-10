@@ -20,6 +20,9 @@ and is cart abandonment recoverable?
   purchases happen in a *later* session, not the one where the item 
   was added to cart
 - Average full purchase journey: **~11 days**
+
+  <img width="1298" height="450" alt="buying_or_abandoning_time" src="https://github.com/user-attachments/assets/c41ce115-b6bd-4d70-8f8c-d32ca7f7872f" />
+
 - Items sit in cart **~8.2 days** on average before removal
 - Only **~1.44%** of users who truly abandon a product (strict single-
   population definition) ever return to buy that same product
@@ -37,6 +40,9 @@ Customers aren't rejecting the product, only 15.36% of cart-adds convert in the 
 Two changes follow directly from this:
 
 - Re-engagement should target the return, not the SKU. Broad "welcome back" triggers, category recs, generic incentives, timed inside the ~8-day cart-sit window will reach the 30% who are actually convertible. Product-specific reminders are optimizing for a population that's already down to 1.44%.
+  
+<img width="1298" height="350" alt="strategic_11days_window" src="https://github.com/user-attachments/assets/aceb5ef4-151f-4e3c-9d53-ab4019bd141b" />
+
 - Cart persistence is a technical lever, not just a marketing one. With cross-session purchase as the dominant path, any friction that breaks cart continuity across devices or sessions (no persistence, no account-linking prompt at add-to-cart) is quietly discarding demand the data shows is still there roughly a week later.
 
 ## Files
