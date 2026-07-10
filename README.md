@@ -29,6 +29,9 @@ and is cart abandonment recoverable?
 - ~30% of abandoners buy *something* eventually but not the item 
   they abandoned
 
+  <img width="1298" height="450" alt="what_happens_to_abandoned_items" src="https://github.com/user-attachments/assets/28fa152a-af76-46a2-8354-3a44b43910f1" />
+
+
 ## Two theories I tested and disproved
 - Unbranded traffic drag down conversion: not supported by the data
 - High-volume brands underperform on conversion:  not supported either
