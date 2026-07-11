@@ -6,7 +6,7 @@ and is cart abandonment recoverable?
 
 ## Setup
 - Dataset: REES46 open e-commerce behavior data (cosmetics category)
-- Tools: Python, PostgreSQL
+- Tools: Python (Pandas, Plotly), PostgreSQL
 - Approach: funnel conversion, purchase timing, cart sit-time, and 
   true-abandonment analysis, each isolated to a single clearly defined 
   population to keep metrics comparable
