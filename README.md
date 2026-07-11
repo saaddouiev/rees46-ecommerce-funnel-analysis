@@ -14,7 +14,8 @@ and is cart abandonment recoverable?
 ## Key findings
 - **6.92%** overall user-level funnel conversion
 
-<img width="1298" height="450" alt="funnel" src="https://github.com/user-attachments/assets/eebef10f-13e8-4053-98af-756001d72ec5" />
+https://cdn.jsdelivr.net/gh/<saddouiev>/<rees46-ecommerce-funnel-analysis
+>@main/rees46-ecommerce-funnel-analysis/purchase_funnel_chart.html
 
 - Session-level cart→purchase conversion is only **15.36%**, most 
   purchases happen in a *later* session, not the one where the item 
